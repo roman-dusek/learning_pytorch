@@ -4,3 +4,4 @@ tensorboardX
 numpy
 scipy
 pandas
+matplotlib
