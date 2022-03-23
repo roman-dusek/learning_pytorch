@@ -1,7 +1,7 @@
 torch
 torchvision
-tensorboardX
 numpy
 scipy
 pandas
 matplotlib
+pytorch_lightning

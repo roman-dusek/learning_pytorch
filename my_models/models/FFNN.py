@@ -2,7 +2,7 @@ import os
 import torch
 from torch import nn
 
-def create_layer(inputs, outputs):
+def create_layer(inputs, outputs, ):
     return nn.Sequential(
         nn.Linear(inputs, outputs),
         nn.Tanh()
