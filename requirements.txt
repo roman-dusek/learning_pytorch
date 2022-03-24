@@ -5,3 +5,5 @@ scipy
 pandas
 matplotlib
 pytorch_lightning
+sklearn
+torchrec-nightly-cpu
